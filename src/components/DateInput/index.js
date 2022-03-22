@@ -73,7 +73,7 @@ class DateInput extends PureComponent {
           readOnly={readOnly}
           disabled={disabled}
           value={value}
-          placeholder={placeholder}
+          placeholder={'krs'}
           aria-label={ariaLabel}
           onKeyDown={this.onKeyDown}
           onChange={this.onChange}
